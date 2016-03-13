@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pressthebutton</string>
+    <string name="action_settings">Settings</string>
+    <string name="Thebuttom">Hello world!</string>
+    <string name="Pressme">Press the Button!</string>
+    <string name="Button1">Flip A Coin!</string>
+    <string name="Button2">Flip A Dice!</string>
+    <string name="button3">Guess 0-9 !</string>
+    <string name="stabletext">It is</string>
+    <string name="ResultPart">Result</string>
+</resources>
